@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xu2SfEjr6mVOXAMCJa/jBJ93hhfvmAOnrqAOkGbCHiJVBeQbd8DCUOyruPMhl7UcrJKW7L/WqXEbegBG24Ye5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Alif.Job\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
